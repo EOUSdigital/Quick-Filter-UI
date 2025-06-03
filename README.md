@@ -72,6 +72,6 @@ This project was built as part of a JavaScript learning journey to better unders
 - DOM Events
 - Real-World Use Cases of Array Methods
 
-Feel free to improve or fork it!
+Feel free to improve it!
 
 ---
